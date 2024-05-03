@@ -1,4 +1,4 @@
-[![video de prensentation]]
+[!image  de prensentation]]
 
 ![image](https://github.com/dgallula/projet3_john-bryce-vacations-master/assets/82768589/f3e2159b-db77-4b6c-b64a-0a0eae1ae209)
 
